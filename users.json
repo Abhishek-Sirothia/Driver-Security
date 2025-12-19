@@ -1,0 +1,14 @@
+{
+    "1": {
+        "name": "Abhishek",
+        "chat_id": "5829521681",
+        "call_user": "http://api.callmebot.com/start.php?source=web&user=@abhishek_sirothia&text=wake%20up&lang=en-US-Standard-B",
+        "call_key": ""
+    },
+    "2": {
+        "name": "LULU",
+        "chat_id": "8204750347",
+        "call_user": "6306038597",
+        "call_key": ""
+    }
+}
